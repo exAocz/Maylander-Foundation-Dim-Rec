@@ -91,9 +91,6 @@ dimwishlist:item=2591746970&perks=265542500,3429800428,2399646028 简单好用�
 dimwishlist:item=814876685&perks=3371775011,16392701,200829441 远古清怪武器 依然好用
 
 //  Fusion Rifle
-// Telesto 
-dimwishlist:item=2208405142&perks=2969185026,3970637031,862848869 telestotelestotelesto 
-
 // Axial Lacuna
 dimwishlist:item=3867373351&perks=689005463,1523832109,2594592626 火属性补输出融合 
 dimwishlist:item=3867373351&perks=839105230,689005463,461595545,2037312142,1988485648 锻造推荐
@@ -124,6 +121,9 @@ dimwishlist:item=2715240478&perks=1556840489,2978966579 自填提升手感
 
 // Tessellation 
 dimwishlist:item=3561203890&perks=1392496348,2969185026,2024652627,3465198467 自适应属性补输出融合(乐
+
+// Telesto 
+dimwishlist:item=2208405142&perks=2969185026,3970637031,862848869 telestotelestotelesto 
 
 // Vex Mythoclast 
 dimwishlist:item=4289226715&perks=839105230,185041502,806917387,990298390 你觉得你是融合吗？ 其实是ar但是吃的都是融合改动
@@ -293,9 +293,6 @@ dimwishlist:item=3512014804&perks=3661387068,3142289711,743139589,862848869 全�
 dimwishlist:item=2907129557&perks=3661387068,3142289711,4115637021,3917450714 异域清怪手炮 可以快速清掉大量红血
 
 // Linear Fusion Rifle
-// The Queenbreaker
-dimwishlist:item=2044500762&perks=1408087974,2680121939,706527188,4259401308 催化加上s26赛季神器大爆输出
-
 // Scintillation 
 dimwishlist:item=1492522228&perks=3418782618,3078487919,3988215619 回转弹药配合veist枪厂特性实现持续续航
 dimwishlist:item=1492522228&perks=968510818,3078487919 嫉妒刺客诱导推销也可以用
@@ -324,6 +321,9 @@ dimwishlist:item=2130065553&perks=1467527085,2969185026,1683379515,3465198467 �
 
 // Sleeper Simulant
 dimwishlist:item=4036115577&perks=1392496348,3230963543,588594999,3465198467 在火激涌时可以拿出来玩一玩
+
+// The Queenbreaker
+dimwishlist:item=2044500762&perks=1408087974,2680121939,706527188,4259401308 催化加上s26赛季神器大爆输出
 
 // Machine Gun
 // Watchful Eye
@@ -596,6 +596,9 @@ dimwishlist:item=1983149589&perks=3337692349,3732232161
 
 // Izanagi's Burden 
 dimwishlist:item=3211806999&perks=3661387068,3142289711,2866798147,3465198467
+
+// Ice Breaker
+dimwishlist:item=1111334348&perks=4090651448,3142289711,2848175214,3465198467
 
 // Submachine Gun 
 // Imminence
