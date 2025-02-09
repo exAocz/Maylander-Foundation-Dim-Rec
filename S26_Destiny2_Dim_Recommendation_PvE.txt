@@ -1,0 +1,682 @@
+title:DIM Wishlist for Maylander Foundation, Y7S1A1, exAocz#6971
+
+// auto_rifle
+// VS Pyroelectric Propellant 
+dimwishlist:item=4232480042&perks=684456054,3966416502 PVE 可用
+dimwishlist:item=4232480042&perks=839105230,1885400500,2450788523,95528736 PVP
+dimwishlist:item=4232480042&perks=839105230,1885400500,2450788523,1015611457 PVP
+
+//Reckless Oracle 
+dimwishlist:item=1992309064&perks=839105230,1885400500,2048641572,3215448563 PVE
+
+//Adamantite
+dimwishlist:item=2987244302&perks=923806249,960997401 减少敌人输出
+dimwishlist:item=2987244302&perks=692399809,2298656195 纯奶人
+
+// No Hesitation
+dimwishlist:item=1801007332&perks=2980589453,4293542123 辉耀炽热清怪 推荐
+dimwishlist:item=1801007332&perks=2980589453,2298656195 生命轮回增伤也可以用
+dimwishlist:item=1801007332&perks=3250034553,3230963543,4063561849,2675184851,1988485648 锻造推荐
+
+// The Summoner
+dimwishlist:item=1292594730&perks=3230963543,3017780555,4293542123 治疗弹匣提供续航 辉耀炽热提供清怪能力 一二号位影响不大
+dimwishlist:item=1292594730&perks=1885400500,3017780555,4293542123 跳弹手感稍好 广口换弹更快
+dimwishlist:item=1820994983&perks=1885400500,3017780555,4293542123 治疗弹匣提供续航 辉耀炽热提供清怪能力 一二号位影响不大
+dimwishlist:item=1820994983&perks=3230963543,3017780555,4293542123 跳弹手感稍好 广口换弹更快
+
+// Prosecutor
+dimwishlist:item=3483591058&perks=3230963543,2848615171,2173046394 蜻蜓伏特子弹可用来平光清怪 
+dimwishlist:item=3483591058&perks=1885400500,2848615171,2173046394 跳弹手感稍好 广口换弹更好
+
+// Ros Arago IV
+dimwishlist:item=3583275737&perks=776531651,95528736 基本有三四号位即可  推荐配合虚空猎战斗爽 猛攻加成下各弹匣区别不大 
+dimwishlist:item=3583275737&perks=106909392,776531651,95528736 战术提供最均衡的增益
+dimwishlist:item=3583275737&perks=1431678320,776531651,95528736 合金打空弹药时加成最大
+dimwishlist:item=3583275737&perks=3230963543,776531651,95528736 广口换弹最快
+
+// Rufus's Fury
+dimwishlist:item=484515708&perks=1431678320,3523296417,831391274 缚丝可锻造720AR 适合任何需要缚丝或AR的场景 本身手感不错 可用perk也相对多样
+dimwishlist:item=484515708&perks=1885400500,3523296417,831391274 可用perk1
+dimwishlist:item=484515708&perks=1885400500,3523296417,831391274 可用perk2
+dimwishlist:item=484515708&perks=2420895100,1523832109,831391274 可用perk3
+dimwishlist:item=484515708&perks=1885400500,1523832109,831391274 可用perk4
+dimwishlist:item=484515708&perks=3230963543,1523832109,831391274 可用perk5
+dimwishlist:item=342514437&perks=1431678320,3523296417,831391274 缚丝可锻造720AR 适合任何需要缚丝或AR的场景 本身手感不错 可用perk也相对多样
+dimwishlist:item=342514437&perks=1885400500,3523296417,831391274 可用perk1
+dimwishlist:item=342514437&perks=1885400500,3523296417,831391274 可用perk2
+dimwishlist:item=342514437&perks=2420895100,1523832109,831391274 可用perk3
+dimwishlist:item=342514437&perks=1885400500,1523832109,831391274 可用perk4
+dimwishlist:item=342514437&perks=3230963543,1523832109,831391274 可用perk5
+dimwishlist:item=484515708&perks=1482024992,1885400500,461595545,102912326,3186078099 锻造推荐 可根据情况选择 狂乱或幼雏 超因果也可用
+dimwishlist:item=484515708&perks=1482024992,1885400500,461595545,3007133316,3186078099
+
+// The Reposte
+dimwishlist:item=3754408118&perks=776531651,2048641572 虚空720Ar 模型不错 打p掉落了的话可以留意一下
+
+// Khvostov 7G-0X
+dimwishlist:item=4129629253&perks=3250034553,1431678320,2135276011,3700496672,3465198467 超级清怪Ar(纯七度 手感不错
+
+// Monte Carlo
+dimwishlist:item=4068264807&perks=1840239774,1561002382,2814973067,3465198467 续近战相关配装的一个选择 虽然大多时候不一定有用
+
+// Choir of One 
+dimwishlist:item=3698448090&perks=1840239774,3230963543,619537267,3465198467,1931951169 锻造推荐拉操控和换弹
+
+// Combat Bow
+// Accruerd Redemption 
+dimwishlist:item=3621336854&perks=2801223209,201365942,3891536761 动能震颤弓箭 锻造推荐拉满蓄力
+
+// Non-Denouement
+dimwishlist:item=1770490683&perks=3700496672,2173046394 边打边劫伏特子弹弓箭 每弓都能有震颤
+dimwishlist:item=1770490683&perks=2848615171,3365897133 蜻蜓爆炸箭头清怪
+dimwishlist:item=1039915310&perks=3700496672,2173046394 边打边劫伏特子弹弓箭 每弓都能有震颤
+dimwishlist:item=1039915310&perks=2848615171,3365897133 蜻蜓爆炸箭头清怪
+dimwishlist:item=1770490683&perks=2801223209,16392701,2840833776,1720528630,1878756191 锻造推荐
+dimwishlist:item=1770490683&perks=2801223209,16392701,169755979,1551736345,1878756191
+
+// Pre Astyanax IV
+dimwishlist:item=2063217087&perks=3700496672,4293542123 边打边劫辉耀炽热 刷到了可以留
+
+// Tyranny of Heaven
+dimwishlist:item=3388655311&perks=3365897133,4293542123 爆炸箭头辉耀炽热 清怪手感上佳
+dimwishlist:item=3388655311&perks=2801223209,16392701,3365897133,4293542123,1489048135 锻造推荐
+
+// Hierarchy of Needs 
+dimwishlist:item=4174431791&perks=2801223209,3429800428,229534486 副手高难刮刮乐武器 
+
+// Leviathan's Breath
+dimwishlist:item=2591746970&perks=265542500,3429800428,2399646028 简单好用输出武器 需要催化
+
+// Trinity Ghoul 
+dimwishlist:item=814876685&perks=3371775011,16392701,200829441 远古清怪武器 依然好用
+
+//  Fusion Rifle
+
+// Axial Lacuna
+dimwishlist:item=3867373351&perks=689005463,1523832109,2594592626 火属性补输出融合 
+dimwishlist:item=3867373351&perks=839105230,689005463,461595545,2037312142,1988485648 锻造推荐
+
+// Scatter Signal 
+dimwishlist:item=2558925366&perks=3643424744,2594592626 缚丝补输出融合 不如夜神长存但是至少能造
+dimwishlist:item=2558925366&perks=839105230,689005463,2682205016,2037312142,3978094547 锻造推荐
+
+// Nox Pernnial V
+dimwishlist:item=2767393525&perks=968510818,2594592626 嫉妒刺客受控连射整体较散射信号会舒服一点 伤害也高一点
+dimwishlist:item=2767393525&perks=839105230,689005463,424370782,2037312142,1050127423 完整Perk推荐
+
+// Techeun Force
+dimwishlist:item=3591141932&perks=1523832109,2594592626 电属性补输出融合 
+dimwishlist:item=3591141932&perks=968510818,2594592626 重建和嫉妒刺客区别不大 主要根据场景选用
+dimwishlist:item=3591141932&perks=839105230,689005463,424370782,2037312142,1489048135 锻造推荐 嫉妒刺客和重建都可以
+
+// Aurvandil FR6
+dimwishlist:item=963710795&perks=1523832109,2978966579 冰冷弹匣融合之一
+
+// Royal Executioner 
+dimwishlist:item=1720503118&perks=968510818,1427256713 火属性补输出融合最优解之一 可锻造
+dimwishlist:item=1720503118&perks=839105230,689005463,424370782,254337357,1823011807 锻造推荐
+
+// Riptide
+dimwishlist:item=2715240478&perks=3300816228,2978966579 冰冷弹匣融合之一 金中藏弹有更好的弹药经济 
+dimwishlist:item=2715240478&perks=1556840489,2978966579 自填提升手感
+
+// Tessellation 
+dimwishlist:item=3561203890&perks=1392496348,2969185026,2024652627,3465198467 自适应属性补输出融合(乐
+
+// Vex Mythoclast 
+dimwishlist:item=4289226715&perks=839105230,185041502,806917387,990298390 你觉得你是融合吗？ 其实是ar但是吃的都是融合改动
+
+// Telesto
+dimwishlist:item=2208405142&perks=2969185026,3970637031,862848869 TELESTO 
+
+// One Thousand Voices
+dimwishlist:item=2069224589&perks=1467527085,1687452232,3504197951,4259401308 能点燃吧
+
+// Bastion 
+dimwishlist:item=2415517654&perks=3250034553,1687452232,4190643473,3465198467 加强了之后可以打一点拳
+
+// Glaive
+// Edge of Action 
+dimwishlist:item=2535142413&perks=3142289711,2379536009 他是金偃月
+
+// Edge of Concurrence 
+dimwishlist:item=542203595&perks=3142289711,844190854 他是金偃月
+
+// Edge of Intent 
+dimwishlist:item=14194600&perks=3142289711,3492337375 他是金偃月
+
+// Vexcalibur 
+dimwishlist:item=3118061005&perks=3142289711,2171805903 免费的虚空盾
+
+// Winterbite 
+dimwishlist:item=3118061004&perks=1934171651,1431678320,75282108,3526486541 我朝，冰！
+
+//Grenade Launcher
+// VS Chill Inhibitor
+dimwishlist:item=1762785662&perks=3987942396,3078487919 大师最好是操控
+
+// Bitter/Sweet 
+dimwishlist:item=2599338625&perks=3987942396,3078487919 大师操控
+
+// Wicked Sister
+dimwishlist:item=2039776723&perks=3987942396,3078487919 
+
+// Phychopomp 
+dimwishlist:item=4028298892&perks=2779035018,3218042543 清怪
+dimwishlist:item=4028298892&perks=3987942396,2888557110 输出
+
+// Liturgy
+dimwishlist:item=2599338624&perks=3032599245,2039302152,2978966579 超级功能枪
+
+// Undercurent 
+dimwishlist:item=817909300&perks=1478423395,2822142346,2010801679,2173046394 可以上震颤的波榴 
+dimwishlist:item=817909300&perks=1478423395,2822142346,1556840489,2173046394 金中有更好的弹药经济 刺客野心可以更好发挥伏特子弹
+dimwishlist:item=3686538757&perks=1478423395,2822142346,1556840489,2173046394 可以上震颤的波榴 
+dimwishlist:item=3686538757&perks=1478423395,2822142346,2010801679,2173046394 金中有更好的弹药经济 刺客野心可以更好发挥伏特子弹
+
+// Lost Signal
+dimwishlist:item=1197771438&perks=2822142346,3300816228,563069569 粪坑框架 可以快速叠满暗影槽
+dimwishlist:item=1197771438&perks=2822142346,3300816228,3523296417 新perk混响适配可以较好适配 爆破专家也是一个不错的四号位
+dimwishlist:item=1197771438&perks=3798852852,2822142346,3528046508,2167611941,253121539 锻造推荐
+
+// Martyr's Retribution 
+dimwishlist:item=2584830733&perks=3017780555,4293542123 治疗弹匣辉耀炽热波榴 开启新时代的清怪武器 推荐治疗框架
+dimwishlist:item=2584830733&perks=3300816228,4293542123 自填可以拔出来就射 也是优点之一
+dimwishlist:item=2584830733&perks=1478423395,2822142346,4223976499,2675184851,2838996248 锻造推荐
+
+// The Mountaintop 
+#notes:自填是刚需 重组和斩首效果相似 三四号位相同即可 一二号位perk全中和全不中伤害差距在一万以下
+dimwishlist:item=568611922&perks=981914802,3492396210,3300816228,1546637391 自填
+dimwishlist:item=568611922&perks=981914802,3492396210,3300816228,469285294 重组
+dimwishlist:item=568611922&perks=3300816228,469285294 有三四号位就可以
+dimwishlist:item=568611922&perks=3300816228,1546637391 
+dimwishlist:item=4043921923&perks=981914802,3492396210,3300816228,469285294 自填
+dimwishlist:item=4043921923&perks=981914802,3492396210,3300816228,1546637391 重组
+dimwishlist:item=4043921923&perks=3300816228,469285294 有三四号位就可以
+dimwishlist:item=4043921923&perks=3300816228,1546637391 
+
+// Edge Transit 
+dimwishlist:item=568611923&perks=3300816228,3078487919 输出perk 自填可以三切
+dimwishlist:item=568611923&perks=968510818,3078487919 嫉妒刺客无脑射
+dimwishlist:item=568611923&perks=3751912585,3078487919 级联点dps最高
+dimwishlist:item=568611923&perks=2396489472,2048641572 清怪perk
+dimwishlist:item=2228325504&perks=2396489472,2048641572 清怪perk
+dimwishlist:item=2228325504&perks=3751912585,3078487919 输出perk 级联点dps最高
+dimwishlist:item=2228325504&perks=3300816228,3078487919 自填可以三切
+dimwishlist:item=2228325504&perks=968510818,3078487919 嫉妒刺客无脑射
+
+// Cataphract GL3 
+dimwishlist:item=874623537&perks=968510818,3078487919 嫉妒刺客无脑输出 
+dimwishlist:item=874623537&perks=3300816228,3078487919 自填三切输出
+dimwishlist:item=2738601016&perks=968510818,3078487919 嫉妒刺客无脑输出 
+dimwishlist:item=2738601016&perks=3300816228,3078487919 自填三切输出
+
+// New Pacific Epitaph 
+#notes:转向是特色perk 仅有的主手冰波榴 需要时也没得选
+dimwishlist:item=1125217994&perks=1556840489,3201496230 
+dimwishlist:item=1125217994&perks=3108830275,3201496230 
+dimwishlist:item=1125217994&perks=3523296417,3201496230
+
+// Wilderflight
+dimwishlist:item=2306182339&perks=3301904089,3300816228,1546637391 三切时补伤害榴弹最优选
+dimwishlist:item=2306182339&perks=3032599245,3300816228,1556840489 双发大范围致盲
+
+// Lingering Dread 
+dimwishlist:item=2026087437&perks=3032599245,3300816228 自填致盲大范围控场
+
+// Forebearance 
+dimwishlist:item=4038592169&perks=2010801679,2396489472  清怪波榴 杀怪就是爆炸
+dimwishlist:item=613334176&perks=2010801679,2396489472 清怪波榴 杀怪就是爆炸
+dimwishlist:item=613334176&perks=1478423395,2822142346,3797647183,598607952,3363267119 锻造推荐
+
+// Empty Vessel
+dimwishlist:item=4255586669&perks=3032599245,3300816228 副手自填致盲控场
+ 
+// Tusk of the Boar
+dimwishlist:item=1218113510&perks=923806249,831391274 唯一的缚丝波榴 我没得选 
+dimwishlist:item=1218113510&perks=923806249,2396489472
+
+// Pardon our Dust
+dimwishlist:item=3849810018&perks=3032599245,3300816228 自填致盲控场 可锻造
+dimwishlist:item=3849810018&perks=3809316345,3032599245,3300816228,3523296417,1260401931 锻造推荐
+
+// Explosive Personality 
+dimwishlist:item=4096943616&perks=3300816228,3108830275 火波榴 可用但是全方位不如殉道者
+dimwishlist:item=4096943616&perks=1478423395,2822142346,3528046508,855168139,1536798515 锻造推荐
+
+// Hullabaloo
+dimwishlist:item=657927352&perks=2173046394,2396489472 重型波榴 可以快速清大怪
+dimwishlist:item=657927352&perks=3300816228,2396489472
+
+// Koraxis's Distress
+dimwishlist:item=495442100&perks=968510818,3708227201 要求比较苛刻的输出榴弹 
+dimwishlist:item=495442100&perks=968510818,2888557110
+
+// Dead Messenger
+dimwishlist:item=46125926&perks=2822142346,2620589274,2726471870 三属性清怪榴弹 有绿弹敲打大招转的很快啊很快
+
+// Parasite
+dimwishlist:item=2812324400&perks=1478423395,1380253176,1679262379,3465198467 一发超人
+
+// Witherhoard
+dimwishlist:item=2357297366&perks=3809316345,1996142143,745965939,3465198467 粪坑 持续伤害 在传统三切中用来补伤害
+
+// Anarchy
+dimwishlist:item=2376481550&perks=3525010810,2822142346,588594999,3465198467 现在能玩一点 但不多
+
+// Hand Cannon
+// Warden's Law
+dimwishlist:item=2152484073&perks=1354429876,1546637391 配合幸运裤可以打出不低的输出
+dimwishlist:item=3250744600&perks=1354429876,1546637391 配合幸运裤可以打出不低的输出
+
+// Midnight Coup 
+dimwishlist:item=2499720827&perks=3824105627,3891536761 能用 如果需要手炮的话可以使用
+dimwishlist:item=2499720827&perks=3700496672,3891536761 另一个选择
+
+// Vulpecula 
+dimwishlist:item=1622998472&perks=1482024992,3230963543,3700496672,3038247973 还算好用的功能枪 
+
+// Zaouli's Bane
+dimwishlist:item=291092617&perks=3038247973,4293542123 可用的清怪手炮 
+dimwishlist:item=431721920&perks=3038247973,4293542123
+dimwishlist:item=431721920&perks=1482024992,3230963543,64866129,2675184851,120721526 锻造推荐
+
+// Malfeasance
+dimwishlist:item=204878059&perks=4090651448,2420895100,2130042297,1012699414 配合幸运裤可以在输出不足时补输出 也可以用来清理大怪和勇士之类
+
+// Lumina
+dimwishlist:item=3512014804&perks=3661387068,3142289711,743139589,862848869 全游最高增伤
+
+// Sunshot 
+dimwishlist:item=2907129557&perks=3661387068,3142289711,4115637021,3917450714 异域清怪手炮 可以快速清掉大量红血
+
+// Linear Fusion Rifle
+
+// Scintillation 
+dimwishlist:item=1492522228&perks=3418782618,3078487919,3988215619 回转弹药配合veist枪厂特性实现持续续航
+dimwishlist:item=1492522228&perks=968510818,3078487919 嫉妒刺客诱导推销也可以用
+dimwishlist:item=2591257541&perks=247725512,3078487919,3988215619 回转弹药配合veist枪厂特性实现持续续航
+dimwishlist:item=2591257541&perks=968510818,3078487919 嫉妒刺客诱导推销也可以用
+
+// Doomed Petitioner
+dimwishlist:item=1501688142&perks=968510818,555281244 重建/嫉妒刺客加精准工具都可 取决于使用场景
+dimwishlist:item=1501688142&perks=1523832109,555281244 
+
+// Briar's Contempt
+dimwishlist:item=2890082420&perks=968510818,3708227201 重建/嫉妒刺客加腹背受敌增伤较高 但对输出环境要求较高
+dimwishlist:item=2890082420&perks=1523832109,3708227201
+dimwishlist:item=1491665733&perks=968510818,3708227201 重建/嫉妒刺客加腹背受敌增伤较高 但对输出环境要求较高
+dimwishlist:item=1491665733&perks=1523832109,3708227201
+
+// Cataclysmic
+dimwishlist:item=999767358&perks=1354429876,3078487919 事不过四诱导推销 有一定续航和伤害
+dimwishlist:item=2886339027&perks=1354429876,3078487919 事不过四诱导推销 有一定续航和伤害
+
+// Euphony 
+dimwishlist:item=3284383335&perks=839105230,3868766766,1180907940,1067908860 主手缚丝线融 新raid金 伤害不俗
+
+// Arbalest 
+dimwishlist:item=2130065553&perks=1467527085,2969185026,1683379515,3465198467 对护盾和屏障有特效 大部分情况下可以一发破盾
+
+// Sleeper Simulant
+dimwishlist:item=4036115577&perks=1392496348,3230963543,588594999,3465198467 在火激涌时可以拿出来玩一玩
+
+// Machine Gun
+// Watchful Eye
+dimwishlist:item=768610585&perks=2869569095,3218042543
+
+// Corrective Measure 
+dimwishlist:item=3654744298&perks=2048641572,1464081238 虚空机枪新神
+dimwishlist:item=2334480463&perks=2048641572,1464081238 虚空机枪新神
+
+// Pro Memoria 
+dimwishlist:item=3605603507&perks=1523832109,4104185692 本身perk中等 但是可以使用枪厂特性快速回转大招
+
+// Hammarhead
+dimwishlist:item=211732170&perks=2779035018,95528736 喂食狂热猛攻是特色perk
+dimwishlist:item=211732170&perks=1354429876,557221067 事不过四击杀记录比较适合机枪 但是相比之下不如纪念
+dimwishlist:item=1896309757&perks=2779035018,95528736 喂食狂热猛攻是特色perk
+dimwishlist:item=1896309757&perks=1354429876,557221067 事不过四击杀记录比较适合机枪 但是相比之下不如纪念
+
+// Marcato-45
+dimwishlist:item=4233375372&perks=923806249,831391274 缚丝机枪的另一个选择
+
+// Song of Ir Yut 
+dimwishlist:item=407511664&perks=1523832109,31345821
+dimwishlist:item=2828278545&perks=1523832109,31345821
+
+// Retrofit Escapade 
+dimwishlist:item=3103325054&perks=1354429876,365154968
+
+// Chain of Command 
+dimwishlist:item=3105930175&perks=839105230,1561002382,2997472817,3523296417
+
+// Commemoration 
+dimwishlist:item=4230965989&perks=1523832109,557221067
+dimwishlist:item=4230965989&perks=1523832109,776531651
+
+// 21% Delirium
+dimwishlist:item=1600633250&perks=1392496348,2420895100,3643424744,2782457288
+
+// Grand Overture
+dimwishlist:item=1763584999&perks=3250034553,3142289711,1408800487,990298390
+
+// Xenophage
+dimwishlist:item=1395261499&perks=202670084,1561002382,2846385770,3465198467
+
+// Tunderlord
+dimwishlist:item=3325463374&perks=1392496348,1968497646,1419069769,2779035018
+
+// Pulse Rifle
+// Nullify 
+dimwishlist:item=892183998&perks=3017780555,4293542123
+dimwishlist:item=892183998&perks=247725512,4293542123
+dimwishlist:item=892183998&perks=3824105627,4293542123
+dimwishlist:item=859869931&perks=3017780555,4293542123
+dimwishlist:item=859869931&perks=247725512,4293542123
+dimwishlist:item=859869931&perks=3824105627,4293542123
+
+// Claws of the Wolf
+dimwishlist:item=1505862304&perks=776531651,2048641572
+
+// Aisha's Care
+dimwishlist:item=3332125295&perks=923806249,831391274
+dimwishlist:item=3969379530&perks=923806249,831391274
+
+// Darkest before 
+dimwishlist:item=435821040&perks=3017780555,4293542123
+
+// Belisarius-D
+dimwishlist:item=2313726158&perks=923806249,831391274
+dimwishlist:item=2313726158&perks=247725512,831391274
+
+// Relentless
+dimwishlist:item=435821041&perks=247725512,831391274
+dimwishlist:item=435821041&perks=923806249,831391274
+
+// Blast Furnace
+dimwishlist:item=2372514508&perks=3891536761,3824105627
+dimwishlist:item=2372514508&perks=3891536761,247725512
+dimwishlist:item=2533990645&perks=3891536761,247725512
+dimwishlist:item=2533990645&perks=3891536761,3824105627
+
+// Elsie's Rifle
+dimwishlist:item=2372514509&perks=776531651,2048641572
+dimwishlist:item=2372514509&perks=1119449540,2048641572
+dimwishlist:item=3851176026&perks=776531651,2048641572
+dimwishlist:item=3851176026&perks=1119449540,2048641572
+
+// Adhoratative 
+dimwishlist:item=2993554824&perks=3700496672,4293542123,19542588
+dimwishlist:item=2993554824&perks=1119449540,4293542123,19542588
+
+// Chattering Bone 
+dimwishlist:item=501329015&perks=247725512,3891536761
+
+// Battle Scar
+dimwishlist:item=2099894368&perks=3700496672,3891536761
+
+// BXR-55 Battler
+dimwishlist:item=2708806099&perks=1168162263,4293542123
+dimwishlist:item=2708806099&perks=1428297954,4293542123
+
+// Revision Zero
+dimwishlist:item=1473821207&perks=1546637391,4152458172,1266037486
+dimwishlist:item=1473821207&perks=1546637391,2206869417,1266037486
+
+// Collective Obligation 
+dimwishlist:item=3505113722&perks=839105230,3230963543,2395713912,990298390
+
+// Outbreak Perfected 
+dimwishlist:item=3824673936&perks=2578928835,3242533954,4135406211,4135406211
+dimwishlist:item=3824673936&perks=2578928832,3242533954,4135406211,4135406211
+
+// Gravition Lance
+dimwishlist:item=3628991658&perks=3250034553,3142289711,320534106,4259401308
+
+// Rocket Launcher
+// Hezen Vengence 
+dimwishlist:item=2265407516&perks=3987942396,3078487919
+dimwishlist:item=2265407516&perks=3300816228,1439600632
+dimwishlist:item=3623686757&perks=3987942396,3078487919
+dimwishlist:item=3623686757&perks=3300816228,1439600632
+
+// Tomorrow's Answer 
+dimwishlist:item=303107619&perks=3987942396,3078487919
+dimwishlist:item=3009199534&perks=3987942396,1439600632
+
+// Faith-Keeper
+dimwishlist:item=4195186942&perks=3300816228,1439600632
+
+// Crux Termination IV
+dimwishlist:item=1719687748&perks=1523832109,1439600632
+dimwishlist:item=1719687748&perks=3161816588,3708227201
+
+// Cold Comfort
+dimwishlist:item=839786290&perks=968510818,3078487919
+dimwishlist:item=839786290&perks=968510818,1439600632
+
+// Braytech Osprey 
+dimwishlist:item=1064132738&perks=968510818,1439600632
+dimwishlist:item=1064132738&perks=3300816228,1439600632
+dimwishlist:item=3667553455&perks=3300816228,1439600632
+dimwishlist:item=3667553455&perks=968510818,1439600632
+
+// Apex Predator 
+dimwishlist:item=1851777734&perks=1523832109,1439600632
+dimwishlist:item=1851777734&perks=1523832109,3078487919
+
+// The Hothead 
+dimwishlist:item=4255171531&perks=2869569095,2284787283
+
+// Dragon's Breath 
+dimwishlist:item=17096506&perks=1478423395,1996142143,2727957645,1067908860
+
+// Gjallarhorn 
+dimwishlist:item=1363886209&perks=1478423395,2985827016,3874977694,1067908860
+
+// Scout Rifle 
+// Hung Jury SR4 (Onslaught
+dimwishlist:item=205225492&perks=3891536761,3824105627
+dimwishlist:item=205225492&perks=247725512,3824105627
+dimwishlist:item=1453235079&perks=247725512,3824105627
+dimwishlist:item=1453235079&perks=3891536761,3824105627
+
+// Hung Jury SR4 
+dimwishlist:item=2883684343&perks=247725512,3891536761
+dimwishlist:item=2883684343&perks=3700496672,3891536761
+dimwishlist:item=3832743906&perks=247725512,3891536761
+dimwishlist:item=3832743906&perks=3700496672,3891536761
+
+// Randy's Throwing Knife 
+dimwishlist:item=3292795429&perks=247725512,3891536761
+
+// Trustee 
+dimwishlist:item=1392919471&perks=247725512,4293542123
+
+// Polaris Lance 
+dimwishlist:item=3413074534&perks=1482024992,106909392,2387244414,4259401308
+
+// Shotgun
+// Found Verdict 
+dimwishlist:item=851296754&perks=1482024992,3142289711,4071163871,47981717,2589407652
+
+// Prophet of Doom 
+dimwishlist:item=2145441168&perks=4071163871,1194056669
+
+// Ded Gramarye IV 
+dimwishlist:item=499245245&perks=684456054,2396489472
+dimwishlist:item=499245245&perks=684456054,2173046394
+
+// Swordbreaker 
+dimwishlist:item=1239700299&perks=3523296417,2679249093
+dimwishlist:item=3163900678&perks=3523296417,2679249093
+
+// IKELOS_SG_V1.0.3
+dimwishlist:item=1168625549&perks=1631667848,2679249093
+
+// Wastelander M5
+dimwishlist:item=1679868061&perks=1556840489,2679249093
+dimwishlist:item=1679868061&perks=1428297954,2679249093
+
+// Heritage 
+dimwishlist:item=4248569242&perks=1523832109,469285294
+
+// Perfect Paradox
+dimwishlist:item=1298672084&perks=2869569095,2679249093,2838996248
+dimwishlist:item=1298672084&perks=1126264488,2679249093,2838996248
+
+// Conditional Finality 
+dimwishlist:item=3371017761&perks=3492498209,1431678320,1105347996,3917450714
+
+// The Fourth Horseman 
+dimwishlist:item=1665952087&perks=839105230,791862061,407549716,4259401308
+
+// Tractor Cannon 
+dimwishlist:item=3580904581&perks=1467527085,3868766766,25692695,3465198467
+
+// Sidearm
+// Lotus-Eater 
+dimwishlist:item=2697143634&perks=2859149211,2048641572
+dimwishlist:item=3922217119&perks=2859149211,2048641572
+ 
+// Aberrant Action 
+dimwishlist:item=2198166292&perks=3017780555,4293542123
+
+// The Call 
+dimwishlist:item=3947966653&perks=1556840489,831391274
+dimwishlist:item=3947966653&perks=923806249,831391274
+
+// Indebted Kindness 
+dimwishlist:item=3381450498&perks=1556840489,2173046394
+
+// Heliocentric QSC 
+dimwishlist:item=3998080529&perks=3017780555,4293542123
+
+// Buzzard 
+dimwishlist:item=927835311&perks=1354429876,3891536761
+dimwishlist:item=927835311&perks=3643424744,3891536761
+dimwishlist:item=213264394&perks=1354429876,3891536761
+dimwishlist:item=213264394&perks=3643424744,3891536761
+
+// Buried Bloodline 
+dimwishlist:item=3886719505&perks=981914802,3230963543,571791574,990298390
+
+// Sniper Rifle 
+// Praedyyth's Revenge 
+dimwishlist:item=2362652544&perks=3891536761,1089671869
+dimwishlist:item=3844610113&perks=3891536761,1089671869
+dimwishlist:item=3844610113&perks=1354429876,555281244
+dimwishlist:item=2362652544&perks=1354429876,555281244
+
+// Supermacy 
+dimwishlist:item=2884596447&perks=3418782618,3891536761
+dimwishlist:item=2884596447&perks=3418782618,1354429876
+
+// Irukandji
+dimwishlist:item=2673925403&perks=1354429876,1771339417
+
+// IKELOS_SR_V1.0.3
+dimwishlist:item=2302346155&perks=1354429876,2896038713
+
+// Succession 
+dimwishlist:item=2990047042&perks=1523832109,1546637391
+dimwishlist:item=2990047042&perks=1523832109,469285294
+
+// Still Hunt 
+dimwishlist:item=2905188646&perks=1392496348,1753262462,1012780539,1067908860
+
+// Whisper of the Worm
+dimwishlist:item=1983149589&perks=777589559,3732232161
+dimwishlist:item=1983149589&perks=3337692349,3732232161
+
+// Izanagi's Burden 
+dimwishlist:item=3211806999&perks=3661387068,3142289711,2866798147,3465198467
+
+// Submachine Gun 
+// Imminence
+dimwishlist:item=1258168956&perks=202670084,3142289711,1359896290,365154968
+
+// The Recluse 
+dimwishlist:item=1050806815&perks=776531651,2048641572
+dimwishlist:item=1050806815&perks=2779035018,2048641572
+dimwishlist:item=1050806815&perks=2779035018,4104185692
+dimwishlist:item=3098328572&perks=776531651,2048641572
+dimwishlist:item=3098328572&perks=2779035018,2048641572
+dimwishlist:item=3098328572&perks=2779035018,4104185692
+
+// Subjunctive 
+dimwishlist:item=1447836603&perks=3230963543,4071163871,2173046394,19542588
+
+// The Showrunner 
+dimwishlist:item=1999754402&perks=3643424744,3891536761
+
+// IKELOS_SMG_V1.0.3
+dimwishlist:item=2149683300&perks=2779035018,2173046394 平光清怪
+
+// Calus Mini-tool
+dimwishlist:item=2490988246&perks=3108830275,4293542123
+
+// Osteo Striga 
+dimwishlist:item=46524085&perks=4015745376,229096166
+
+// The Manticore 
+dimwishlist:item=219145368&perks=839105230,1885400500,2656694271,4259401308
+
+// Risk Runner
+dimwishlist:item=3089417789&perks=839105230,2420895100,1530804125,1067908860
+
+// Sword 
+// Summum Bonum 
+dimwishlist:item=2001697739&perks=3108830275,2396489472
+dimwishlist:item=3569407878&perks=3108830275,2396489472
+
+// False Idols 
+dimwishlist:item=4207120603&perks=4293542123,2396489472,1988485648
+
+// Falling Guillotine 
+dimwishlist:item=243425374&perks=4104185692,2077819806
+dimwishlist:item=243425374&perks=2396489472,2077819806
+dimwishlist:item=1815105249&perks=4104185692,2077819806
+dimwishlist:item=1815105249&perks=2396489472,2077819806
+
+// The Slammer 
+dimwishlist:item=1354727549&perks=2077819806,3650930298
+dimwishlist:item=2889501828&perks=2077819806,3650930298
+
+// Goldtusk
+dimwishlist:item=3371413057&perks=1749209109,3913600130
+
+// Half-Truths
+dimwishlist:item=3257091166&perks=2077819806
+
+// The other half 
+dimwishlist:item=3257091167&perks=2077819806
+
+// Bequest 
+dimwishlist:item=3366545721&perks=1749209109,3708227201
+
+// The Lament 
+dimwishlist:item=3487253372&perks=3666208348,599007201,2590710093,290014589
+
+// Trace Rifle 
+// Chronophage 
+dimwishlist:item=1886840007&perks=3700496672
+
+// Acasia's Dejection 
+dimwishlist:item=1471212226&perks=1523832109,3215448563
+dimwishlist:item=3493494807&perks=1523832109,3215448563
+
+// Path of Least Resistance 
+dimwishlist:item=2827764482&perks=3700496672,2173046394 
+
+// The Navigator 
+dimwishlist:item=1441805468&perks=202670084,2749775325,4620383,3465198467
+
+// Microcosm 
+dimwishlist:item=4207066264&perks=3250034553,2680121939,877533329,990298390
+
+// Divinity 
+dimwishlist:item=4103414242&perks=1392496348,3868766766,1185480639,3465198467
+
+
