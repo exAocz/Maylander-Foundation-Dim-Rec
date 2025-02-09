@@ -91,6 +91,8 @@ dimwishlist:item=2591746970&perks=265542500,3429800428,2399646028 简单好用�
 dimwishlist:item=814876685&perks=3371775011,16392701,200829441 远古清怪武器 依然好用
 
 //  Fusion Rifle
+// Telesto 
+dimwishlist:item=2208405142&perks=2969185026,3970637031,862848869 telestotelestotelesto 
 
 // Axial Lacuna
 dimwishlist:item=3867373351&perks=689005463,1523832109,2594592626 火属性补输出融合 
