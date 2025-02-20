@@ -1,6 +1,10 @@
 Maylander foundation Destiny Item Manager Wishlist Recommendation Repository
 
-English Below
+如何添加DIM愿望单物品:
+
+1. http://wishlists.littlelight.club
+
+2. https://d2foundry.gg
 
 V1.0 测试版dim愿望单现已发布
 
