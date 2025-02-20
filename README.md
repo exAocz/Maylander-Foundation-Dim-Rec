@@ -1,4 +1,4 @@
-# Maylander foundation Destiny Item Manager Wishlist Recommendation Repository
+**Maylander foundation Destiny Item Manager Wishlist Recommendation Repository**
 
 ## 如何添加DIM愿望单物品:
 
