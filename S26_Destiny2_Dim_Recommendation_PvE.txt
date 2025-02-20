@@ -2,7 +2,7 @@ title:DIM Wishlist for Maylander Foundation, Y7S3A1, exAocz#6971
 
 // auto_rifle
 // VS Pyroelectric Propellant 
-dimwishlist:item=4232480042&perks=684456054,3966416502 PVE 可用
+dimwishlist:item=4232480042&perks=684456054,3966416502 PVE 可用 当然
 dimwishlist:item=4232480042&perks=839105230,1885400500,2450788523,95528736 PVP
 dimwishlist:item=4232480042&perks=839105230,1885400500,2450788523,1015611457 PVP
 
