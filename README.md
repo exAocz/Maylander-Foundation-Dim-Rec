@@ -6,7 +6,7 @@
 
 https://github.com/DestinyItemManager/DIM/wiki/Creating-Wish-Lists
 
-<ins>提交修改时请同时备注修改加入的武器或perk</ins>
+**<ins>提交修改时请创建Pull Request并修改加入的武器或perk</ins>**
 
 **常用愿望单编辑网站**
 
