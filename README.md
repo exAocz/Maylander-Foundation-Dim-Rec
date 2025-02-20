@@ -24,4 +24,4 @@ https://raw.githubusercontent.com/exAocz/Maylander-Foundation-Dim-Rec/refs/heads
 
 Most raid/dungeon weapons before Sundered Doctrine is added to the list, some good season weapon also 
 
-Ritural weapon and world drop weapons hasn't been added yet 
+Ritural weapon and world drop weapons hasn't been added yet :)
