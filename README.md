@@ -6,6 +6,8 @@
 
 https://github.com/DestinyItemManager/DIM/wiki/Creating-Wish-Lists
 
+<ins>提交修改时请同时备注修改加入的武器或perk</ins>
+
 **常用愿望单编辑网站**
 
 1. [Littlelight Wishlist](http://wishlists.littlelight.club)
