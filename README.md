@@ -1,16 +1,16 @@
-Maylander foundation Destiny Item Manager Wishlist Recommendation Repository
+# Maylander foundation Destiny Item Manager Wishlist Recommendation Repository
 
-如何添加DIM愿望单物品:
+## 如何添加DIM愿望单物品:
 
-1. http://wishlists.littlelight.club
+1. [Littlelight Wishlist](http://wishlists.littlelight.club)
 
 方便大批量处理 但是只有武器类型和赛季的筛选
 
-2. https://d2foundry.gg
+2. [D2foundry](https://d2foundry.gg)
 
 有更细节的筛选tag但是无法进行大批量处理
 
-V1.0 测试版dim愿望单现已发布
+## V1.0 测试版dim愿望单现已发布
 
 使用方法:
 
@@ -22,7 +22,7 @@ https://raw.githubusercontent.com/exAocz/Maylander-Foundation-Dim-Rec/refs/heads
 
 仪式活动和世界掉落武器暂时没有加入
 
-V1.0 Test version DIM wishlist 
+## V1.0 Test version DIM wishlist 
 
 How to use:
 
