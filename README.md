@@ -4,7 +4,11 @@ Maylander foundation Destiny Item Manager Wishlist Recommendation Repository
 
 1. http://wishlists.littlelight.club
 
+方便大批量处理 但是只有武器类型和赛季的筛选
+
 2. https://d2foundry.gg
+
+有更细节的筛选tag但是无法进行大批量处理
 
 V1.0 测试版dim愿望单现已发布
 
