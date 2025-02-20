@@ -2,6 +2,12 @@
 
 ## 如何添加DIM愿望单物品:
 
+格式请参见DIM官方指导文件
+
+https://github.com/DestinyItemManager/DIM/wiki/Creating-Wish-Lists
+
+**常用愿望单编辑网站**
+
 1. [Littlelight Wishlist](http://wishlists.littlelight.club)
 
 方便大批量处理 但是只有武器类型和赛季的筛选
