@@ -26,7 +26,7 @@ https://github.com/DestinyItemManager/DIM/wiki/Creating-Wish-Lists
 
 https://raw.githubusercontent.com/exAocz/Maylander-Foundation-Dim-Rec/refs/heads/main/S26_Destiny2_Dim_Recommendation_PvE.txt
 
-目前清单中有大部分分离教义地牢之前的武器
+分离教义武器已经更新 还有aegis的pve s级武器 在dim愿望单中点击刷新即可
 
 仪式活动和世界掉落武器暂时没有加入
 
@@ -38,6 +38,6 @@ Enter the Dim website -> Settings -> Wishlist -> Add another wislist -> Paste th
 
 https://raw.githubusercontent.com/exAocz/Maylander-Foundation-Dim-Rec/refs/heads/main/S26_Destiny2_Dim_Recommendation_PvE.txt
 
-Most raid/dungeon weapons before Sundered Doctrine is added to the list, some good season weapon also 
+Sundered Doctrine weapons has been updated, click the refresh button in dim wishlist to update
 
 Ritural weapon and world drop weapons hasn't been added yet :)
