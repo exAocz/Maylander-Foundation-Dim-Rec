@@ -1,0 +1,218 @@
+title:My wishes
+
+// Critical Anomaly - Chill clip sniper (god-pve,pve)
+//notes: if its a better archetype tags:god-pve,pve
+dimwishlist:item=445197843&perks=2978966579,3640170453,1878756191
+
+
+// Tinasha's Mastery - cc rocket sidearm (pve,god-pve)
+//notes: tags:pve,god-pve
+dimwishlist:item=480368036&perks=3993379141,2978966579
+dimwishlist:item=480368036&perks=951095735,2978966579
+dimwishlist:item=480368036&perks=1421772400,2978966579
+
+
+// Forthcoming Deviance - best energy glave (god-pve,pve)
+//notes: tags:god-pve,pve
+dimwishlist:item=535198113&perks=1683379515,1782407750
+dimwishlist:item=535198113&perks=1683379515,2048641572
+dimwishlist:item=535198113&perks=1683379515,3640170453
+dimwishlist:item=535198113&perks=1683379515,2396489472
+dimwishlist:item=535198113&perks=1631667848,1782407750
+dimwishlist:item=535198113&perks=1631667848,2048641572
+dimwishlist:item=535198113&perks=1631667848,3640170453
+dimwishlist:item=535198113&perks=1631667848,2396489472
+dimwishlist:item=535198113&perks=3523296417,1782407750
+dimwishlist:item=535198113&perks=3523296417,2048641572
+dimwishlist:item=535198113&perks=3523296417,3640170453
+dimwishlist:item=535198113&perks=3523296417,2396489472
+
+
+// Retraced Path - stl solar trace (pve)
+//notes: still good tags:pve
+dimwishlist:item=548958835&perks=3700496672,4293542123,1260401931
+dimwishlist:item=548958835&perks=3700496672,3523296417,1260401931
+dimwishlist:item=548958835&perks=3700496672,4104185692,1260401931
+
+
+// The Mountaintop - Mountantop (god-pve,pve)
+//notes: fun and useful tags:god-pve,pve
+dimwishlist:item=568611922&perks=3300816228,469285294
+dimwishlist:item=568611922&perks=3300816228,1546637391
+dimwishlist:item=568611922&perks=3300816228,4104185692
+dimwishlist:item=568611922&perks=951095735,469285294
+dimwishlist:item=568611922&perks=951095735,1546637391
+dimwishlist:item=568611922&perks=951095735,4104185692
+
+
+// IKELOS_SG_v1.0.3 - Energy shotgun of choice (pve,god-pve)
+//notes: tags:pve,god-pve
+dimwishlist:item=1168625549&perks=402033656,788178929
+dimwishlist:item=1168625549&perks=402033656,2459015849
+dimwishlist:item=1168625549&perks=402033656,331667533
+dimwishlist:item=1168625549&perks=402033656,781192741
+dimwishlist:item=1168625549&perks=494941759,788178929
+dimwishlist:item=1168625549&perks=494941759,2459015849
+dimwishlist:item=1168625549&perks=494941759,331667533
+dimwishlist:item=1168625549&perks=494941759,781192741
+
+
+// Lost Signal - damage and dark meter (god-pve,pve)
+//notes: fast darkness energy tags:god-pve,pve
+dimwishlist:item=1197771438&perks=3300816228,1546637391,253121539
+dimwishlist:item=1197771438&perks=3300816228,3523296417,253121539
+
+
+// Perfect Paradox - shotgun of choice (pve,god-pve)
+//notes: best shotgun in the game rn tags:pve,god-pve
+dimwishlist:item=1298672084&perks=4071163871,2360754333,2838996248
+dimwishlist:item=1298672084&perks=4071163871,2679249093,2838996248
+dimwishlist:item=1298672084&perks=4071163871,2459015849,2838996248
+dimwishlist:item=1298672084&perks=4071163871,788178929,2838996248
+dimwishlist:item=1298672084&perks=494941759,2360754333,2838996248
+dimwishlist:item=1298672084&perks=494941759,2679249093,2838996248
+dimwishlist:item=1298672084&perks=494941759,2459015849,2838996248
+dimwishlist:item=1298672084&perks=494941759,788178929,2838996248
+
+
+// Perfect Paradox - more usable perks (pve)
+//notes: tags:pve
+dimwishlist:item=1298672084&perks=2869569095,1546637391
+dimwishlist:item=1298672084&perks=691659142,1546637391
+
+
+// Unsworn - strand trace (pve,god-pve)
+//notes: op origin trait, 40% damage buff, first StL kinetic slot trace, great origin trait, Detonator Beam tags:pve,god-pve
+dimwishlist:item=1303313141&perks=3418782618,1089671869,1298135794
+dimwishlist:item=1303313141&perks=3418782618,4198902903,1298135794
+dimwishlist:item=1303313141&perks=3700496672,1089671869,1298135794
+dimwishlist:item=1303313141&perks=3700496672,4198902903,1298135794
+
+
+// VS Velocity Baton - best gl (god-pve,pve)
+//notes: attrition orbs for orbs, repulsor destab for adclear, demo is always good tags:god-pve,pve
+dimwishlist:item=1762785663&perks=776531651,243981275,4139916815
+dimwishlist:item=1762785663&perks=776531651,2048641572,4139916815
+dimwishlist:item=1762785663&perks=3523296417,243981275,4139916815
+dimwishlist:item=1762785663&perks=3523296417,2048641572,4139916815
+
+
+// Chronophage - best trace (pve,god-pve)
+//notes: stl for utility, destab for adclear, repulse for survival tags:pve,god-pve
+dimwishlist:item=1886840007&perks=3700496672,2048641572,253121539
+dimwishlist:item=1886840007&perks=3700496672,3523296417,253121539
+dimwishlist:item=1886840007&perks=776531651,2048641572,253121539
+dimwishlist:item=1886840007&perks=776531651,3523296417,253121539
+
+
+// Aberrant Action - solar rocket sidarm (god-pve,pve)
+//notes: hc incand with good origin trait tags:god-pve,pve
+dimwishlist:item=2198166292&perks=3017780555,4293542123,253121539
+dimwishlist:item=2198166292&perks=3017780555,3523296417,253121539
+
+
+// Rake Angle - best glave (god-pve,pve)
+//notes: cc/close to melee tags:god-pve,pve
+dimwishlist:item=2298039571&perks=951095735,2978966579,1281216113
+dimwishlist:item=2298039571&perks=951095735,1782407750,1281216113
+
+
+// Scatter Signal - best fusion in game (god-pve,pve)
+//notes: tags:god-pve,pve
+dimwishlist:item=2558925366&perks=3643424744,2594592626,3978094547
+
+
+// Riptide - best utility fusion (god-pve,pve)
+//notes: tags:god-pve,pve
+dimwishlist:item=2715240478&perks=3300816228,2978966579,4091460919
+dimwishlist:item=2715240478&perks=1556840489,2978966579,4091460919
+
+
+// Zealot's Reward - best energy fusion (god-pve,pve)
+//notes: ad clear tags:god-pve,pve
+dimwishlist:item=2720651699&perks=2048641572,1427256713
+
+
+// Zealot's Reward - damage (pve)
+//notes: tags:pve
+dimwishlist:item=2720651699&perks=3300816228,2594592626
+
+
+// Until Its Return - rf shotgun but strand (pve,god-pve)
+//notes: tags:pve,god-pve
+dimwishlist:item=2883484461&perks=3643424744,2360754333,2053642371
+dimwishlist:item=2883484461&perks=3643424744,3751912585,2053642371
+dimwishlist:item=2883484461&perks=3300816228,2360754333,2053642371
+dimwishlist:item=2883484461&perks=3300816228,3751912585,2053642371
+
+
+// The Supremacy - second best sniper (god-pve,pve)
+//notes: tags:god-pve,pve
+dimwishlist:item=2884596447&perks=3418782618,3891536761,1489048135
+
+
+// The Supremacy - funny ()
+dimwishlist:item=2884596447&perks=3418782618,1354429876
+
+
+// The Supremacy - swap ()
+dimwishlist:item=2884596447&perks=3418782618,3078487919
+
+
+// Unvoiced - Slug shotgun of choice (pve,god-pve)
+//notes: best slug in the game tags:pve,god-pve
+dimwishlist:item=3360937899&perks=3201496230,3078487919,1298135794
+dimwishlist:item=3360937899&perks=3201496230,1546637391,1298135794
+dimwishlist:item=3360937899&perks=3201496230,1089671869,1298135794
+dimwishlist:item=3360937899&perks=3987942396,3078487919,1298135794
+dimwishlist:item=3360937899&perks=3987942396,1546637391,1298135794
+dimwishlist:item=3360937899&perks=3987942396,1089671869,1298135794
+
+
+// Praedyth's Revenge - Best sniper (god-pve,pve)
+//notes: tags:god-pve,pve
+dimwishlist:item=3844610113&perks=3891536761,3078487919,2589407652
+dimwishlist:item=3844610113&perks=3891536761,1089671869,2589407652
+
+
+// Praedyth's Revenge ()
+dimwishlist:item=3844610113&perks=1354429876,1089671869
+dimwishlist:item=3844610113&perks=1354429876,3078487919
+
+
+// Praedyth's Revenge ()
+dimwishlist:item=3844610113&perks=3987942396,3078487919
+dimwishlist:item=3844610113&perks=3987942396,1089671869
+
+
+// Lotus-Eater - void rocket sidearm (pve,god-pve)
+//notes: destab tags:pve,god-pve
+dimwishlist:item=3922217119&perks=776531651,2048641572,1281216113
+dimwishlist:item=3922217119&perks=776531651,1134488199,1281216113
+dimwishlist:item=3922217119&perks=3700496672,2048641572,1281216113
+dimwishlist:item=3922217119&perks=3700496672,1134488199,1281216113
+dimwishlist:item=3922217119&perks=1523832109,2048641572,1281216113
+dimwishlist:item=3922217119&perks=1523832109,1134488199,1281216113
+
+
+// Unexpected Resurgence - arc glave (pve)
+//notes: tags:pve
+dimwishlist:item=4005780578&perks=3300816228,4104185692
+dimwishlist:item=4005780578&perks=3300816228,1782407750
+dimwishlist:item=4005780578&perks=951095735,4104185692
+dimwishlist:item=4005780578&perks=951095735,1782407750
+
+
+// Unexpected Resurgence - volt shot glave (pve)
+//notes: tags:pve
+dimwishlist:item=4005780578&perks=951095735,2173046394,4091460919
+
+
+// Psychopomp - damage/adclear manual reload (god-pve,pve)
+//notes: why do i have to reload tags:god-pve,pve
+dimwishlist:item=4028298892&perks=3987942396,3218042543
+dimwishlist:item=4028298892&perks=3987942396,1089671869
+dimwishlist:item=4028298892&perks=2010801679,3218042543
+dimwishlist:item=4028298892&perks=2010801679,1089671869
+
+
